@@ -17,7 +17,8 @@
     "@babel/preset-env": "^7.21.4",
     "babel-loader": "^9.1.2",
     "core-js": "^3.30.0",
-    "regenerator-runtime": "^0.13.11"
+    "regenerator-runtime": "^0.13.11",
+    "spin.js": "^4.1.1"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",

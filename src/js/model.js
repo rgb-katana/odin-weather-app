@@ -1,4 +1,4 @@
-const API = `http://api.weatherapi.com/v1/current.json?key=4bc4d337dda043ceb7b152100230801`;
+const API = `https://api.weatherapi.com/v1/current.json?key=4bc4d337dda043ceb7b152100230801`;
 
 export async function seachWeater(city) {
   try {
